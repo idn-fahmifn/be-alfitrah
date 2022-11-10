@@ -46,6 +46,13 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#">Informasi</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Program</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">PPDB</a>
+                    </li>
+                    
 
                 </ul>
             </div>
